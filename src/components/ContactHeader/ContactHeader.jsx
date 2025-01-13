@@ -5,6 +5,7 @@ const ContactHeader = () => {
     <div className={`container ${styles.contactsection}`}>
       <h1>Contact Us</h1>
       <p>Lets connectc we are here to learn and earning </p>
+      <p>testing</p>
     </div>
   )
 }
